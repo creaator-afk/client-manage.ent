@@ -1,0 +1,8 @@
+table th {
+  background: darkblue;
+  color: white;
+}
+table.table-striped th {
+  background: darkblue;
+  color: white;
+}
